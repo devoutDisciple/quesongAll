@@ -1,0 +1,7 @@
+back/node/node_modules
+back/web/node_modules
+.vscode
+**/.vscode
+.DS_Store
+**/.DS_Store
+**/node_modules
